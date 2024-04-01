@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi!, I'm Sehej! 👋
 
 <!--
 **sehejkumar/sehejkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🏫 Current High School Senior and Aspiring Full Stack Software Engineer </br>
+💡 Skills: C++, C, Java, Python, HTMl, CSS, JavaScript </br>
+💻 Technologies: Visual Studio Code, Google Colab, Android Studio, Google Firbase, Jupyter Notebook </br>
+📱 I’m currently working on learning React and React Native to develop fully functional mobile applications. </br>
+😄 Pronouns: He/Him </br>
+📫 How to reach me: LinkedIn: https://www.linkedin.com/in/sehej-kumar/  Email: kumarsehej@gmail.com </br>
+
+[![Sehej's GitHub stats](https://github-readme-stats.vercel.app/api?username=sehejkumar&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
