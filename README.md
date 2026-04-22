@@ -26,7 +26,7 @@ Here are some ideas to get you started:
  --->
 
  ### Hi! I'm Sehej!
-🏫 Freshman at the University of Texas at Austin and Aspiring Full Stack Software Engineer<br>💡 Skills: C++, C, Java, Python, HTMl, CSS, JavaScript<br>💻 Technologies: Visual Studio Code, Google Colab, Android Studio, Google Firbase, Jupyter Notebook<br>📱 I’m currently working on learning React and React Native to develop fully functional mobile and web applications.<br>😄 Pronouns: He/Him
+🏫 Senior at the University of Texas at Austin and Aspiring Full Stack Software Engineer<br>💡 Skills: C++, C, Java, Python, HTMl, CSS, JavaScript<br>💻 Technologies: Visual Studio Code, Google Colab, Android Studio, Google Firebase, Jupyter Notebook<br>📱 I’m currently working on learning React and React Native to develop fully functional mobile and web applications.<br>😄 Pronouns: He/Him
 
 
 ## 🌐 Socials
